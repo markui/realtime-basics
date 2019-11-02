@@ -46,3 +46,8 @@ Use **data synchronization offsets**(ex) timestamps) so that the server doesn't 
 
 
 ## What DB should we use for realtime-chat?
+
+## System Design
+
+https://www.youtube.com/watch?v=zKPNUMkwOJE
+https://www.youtube.com/watch?v=vvhC64hQZMk
