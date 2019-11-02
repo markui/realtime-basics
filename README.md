@@ -51,3 +51,4 @@ Use **data synchronization offsets**(ex) timestamps) so that the server doesn't 
 
 https://www.youtube.com/watch?v=zKPNUMkwOJE
 https://www.youtube.com/watch?v=vvhC64hQZMk
+https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=4793322061168640
