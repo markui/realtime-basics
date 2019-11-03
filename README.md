@@ -8,7 +8,8 @@ A study of how to build scalable real time chat apps
 >3-1. Polling: Send AJAX request to server every specified interval, and return an empty response even if there is no update from the server<br>
 3-2. Long Polling(Comet): Send request to server and keep the connection open until a new update on the server, and immediately requests back to the server. (ex) Hanging GET Requests / Pending POST Requests)<br>
 3-3. Streaming<br>
->3-4. Websockets
+3-3. Server Sent Events: Uses Eventsource API to send messages from the server to client.(Not truly bi-directional). Generally requires event-loop. No binary message capability.<br>
+>3-5. Websockets
 
 ## The 7 Layers of the OSI Model
 
