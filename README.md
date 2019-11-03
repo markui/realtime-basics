@@ -6,10 +6,14 @@ A study of how to build scalable real time chat apps
 2. Dynamic Content(AJAX)
 3. Realtime(Polling => Long Polling(Comet), Streaming => Websockets)
 
+## The 7 Layers of the OSI Model
+
+## Sockets? File Descriptors?
+
 ## What are Websockets?
 
-https://www.linode.com/docs/development/introduction-to-websockets/
-https://www.youtube.com/watch?v=PjiXkJ6P9pQ
+[Introduction to Websockets](https://www.linode.com/docs/development/introduction-to-websockets/)
+[A Beginner's Guid to Websockets](https://www.youtube.com/watch?v=PjiXkJ6P9pQ)
 
 ## Scailng Websockets?
 [hackernoon-scaling-websockets](https://hackernoon.com/scaling-websockets-9a31497af051)
