@@ -5,10 +5,10 @@ A study of how to build scalable real time chat apps
 1. Static Content(HTTP)
 2. Dynamic Content(AJAX)
 3. To Achieve Realtime
-3-1. Polling: Send AJAX request to server every specified interval, and return an empty response even if there is no update from the server
-3-2. Long Polling(Comet): Send request to server and keep the connection open until a new update on the server, and immediately requests back to the server. (ex) Hanging GET Requests / Pending POST Requests)
-3-3. Streaming
-3-4. Websockets
+>3-1. Polling: Send AJAX request to server every specified interval, and return an empty response even if there is no update from the server<br>
+3-2. Long Polling(Comet): Send request to server and keep the connection open until a new update on the server, and immediately requests back to the server. (ex) Hanging GET Requests / Pending POST Requests)<br>
+3-3. Streaming<br>
+>3-4. Websockets
 
 ## The 7 Layers of the OSI Model
 
