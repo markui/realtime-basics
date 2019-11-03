@@ -4,7 +4,11 @@ A study of how to build scalable real time chat apps
 ## The history of web and the need for realtime
 1. Static Content(HTTP)
 2. Dynamic Content(AJAX)
-3. Realtime(Polling => Long Polling(Comet), Streaming => Websockets)
+3. To Achieve Realtime
+3-1. Polling: Send AJAX request to server every specified interval, and return an empty response even if there is no update from the server
+3-2. Long Polling(Comet): Send request to server and keep the connection open until a new update on the server, and immediately requests back to the server. (ex) Hanging GET Requests / Pending POST Requests)
+3-3. Streaming
+3-4. Websockets
 
 ## The 7 Layers of the OSI Model
 
@@ -14,6 +18,8 @@ A study of how to build scalable real time chat apps
 
 [Introduction to Websockets](https://www.linode.com/docs/development/introduction-to-websockets/)
 [A Beginner's Guid to Websockets](https://www.youtube.com/watch?v=PjiXkJ6P9pQ)
+
+> Websocket Protocol is an Upgrade of the HTTP Protocol. You only send headers once in the HTTP handshake, and then just send back and forth data through the same TCP connection.
 
 ## Scailng Websockets?
 [hackernoon-scaling-websockets](https://hackernoon.com/scaling-websockets-9a31497af051)
