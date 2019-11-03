@@ -4,7 +4,12 @@ A study of how to build scalable real time chat apps
 ## The history of web and the need for realtime
 1. Static Content(HTTP)
 2. Dynamic Content(AJAX)
-3. Realtime(Polling => Long Polling/Streaming => Websockets)
+3. Realtime(Polling => Long Polling(Comet), Streaming => Websockets)
+
+## What are Websockets?
+
+https://www.linode.com/docs/development/introduction-to-websockets/
+https://www.youtube.com/watch?v=PjiXkJ6P9pQ
 
 ## Scailng Websockets?
 [hackernoon-scaling-websockets](https://hackernoon.com/scaling-websockets-9a31497af051)
