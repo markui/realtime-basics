@@ -80,3 +80,4 @@ https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_
 ## Django Channels
 [Deploying-Scaling-Django-Channels](https://avilpage.com/2018/05/deploying-scaling-django-channels.html)
 [Scaling-Django-Channels-with-Docker](https://www.excella.com/insights/scaling-django-channels-with-docker)
+[Setting-up-django-channels-on-eb](https://hackernoon.com/setting-up-django-channels-on-aws-elastic-beanstalk-716fd5a49c4a)
