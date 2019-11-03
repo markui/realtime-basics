@@ -63,3 +63,5 @@ https://www.youtube.com/watch?v=KrPE5X4dqww
 https://www.youtube.com/watch?v=zKPNUMkwOJE
 https://www.youtube.com/watch?v=vvhC64hQZMk
 https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_id=4793322061168640
+
+[Line Live Chat Architecture](https://engineering.linecorp.com/en/blog/the-architecture-behind-chatting-on-line-live/)
