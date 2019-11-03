@@ -21,6 +21,7 @@ A study of how to build scalable real time chat apps
 [A Beginner's Guid to Websockets](https://www.youtube.com/watch?v=PjiXkJ6P9pQ)
 
 > Websocket Protocol is an Upgrade of the HTTP Protocol. You only send headers once in the HTTP handshake, and then just send back and forth data through the same TCP connection.
+> To Deploy, you might have to use Eventlet or Gevent to monkey patch async, Async Web Frameworks are idela(like torando), Use message queue to run multiple instances behind (load balancers with sticky sessions on workers)
 
 ## Scailng Websockets?
 [hackernoon-scaling-websockets](https://hackernoon.com/scaling-websockets-9a31497af051)
