@@ -75,3 +75,8 @@ https://www.educative.io/courses/grokking-the-system-design-interview?affiliate_
 
 ## Websocket Benchmark Tools
 [Thor](https://github.com/observing/thor#readme)
+
+
+## Django Channels
+[Deploying-Scaling-Django-Channels](https://avilpage.com/2018/05/deploying-scaling-django-channels.html)
+[Scaling-Django-Channels-with-Docker](https://www.excella.com/insights/scaling-django-channels-with-docker)
