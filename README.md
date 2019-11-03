@@ -42,6 +42,8 @@ When a client is connected to a WebSocket server, and that server falls over, th
 Use **data synchronization offsets**(ex) timestamps) so that the server doesn't send all the data again.
 
 
+https://www.youtube.com/watch?v=KrPE5X4dqww
+
 ## What Pub/Sub Broker should we use for realtime-chat?
 
 
