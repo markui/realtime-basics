@@ -60,6 +60,8 @@ Use **data synchronization offsets**(ex) timestamps) so that the server doesn't 
 
 
 https://www.youtube.com/watch?v=KrPE5X4dqww
+https://medium.com/containers-on-aws/scaling-a-realtime-chat-app-on-aws-using-socket-io-redis-and-aws-fargate-4ed63fb1b681
+
 
 ## What Pub/Sub Broker should we use for realtime-chat?
 
